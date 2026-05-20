@@ -1,4 +1,4 @@
-
+<img width="2508" height="1224" alt="ppt生成" src="https://github.com/user-attachments/assets/b76ffa7c-22fb-4555-ba47-78102fde53ac" />
 **AI Agent 平台** — 文件问答、深度研究与 PPT 自动生成的智能工作台
 
 ---
@@ -27,3 +27,5 @@ XiaoYe-Agent 是我独立开发的 AI Agent 平台，集成文件问答、深度
    - 状态机驱动生成流程：需求 -> 搜索 -> 模板 -> 大纲 -> Schema -> 渲染
    - 支持创建、修改与恢复
    - 可生成结构化 PPT，支持快速汇报与展示
+
+<img width="2526" height="1239" alt="首页" src="https://github.com/user-attachments/assets/50da3a71-a17a-4382-a748-96560f8d6874" />
